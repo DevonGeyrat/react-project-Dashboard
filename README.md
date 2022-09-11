@@ -16,3 +16,8 @@ A mock-company dashboard using React, Syncfusion and TailwindCSS
 
 ## Charts: Line, Area, Bar, Pie, Financial, Color-mapping and Pyramid
 ![Screenshot 2022-09-11 113708](https://user-images.githubusercontent.com/45537599/189520986-bd95449b-c9c1-476c-85e3-1e9e3db5b355.png)
+
+
+
+## Setting: Dark-mode toggle and Color theme selection
+![Screenshot 2022-09-11 122527](https://user-images.githubusercontent.com/45537599/189522698-92a3174d-9900-4517-8266-72a0c42788da.png)
